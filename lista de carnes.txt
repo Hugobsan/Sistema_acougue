@@ -1,0 +1,35 @@
+Carne de 1ª  		27,00
+Carne de 2ª  		23,00
+Lombo de Porco		14,00 
+Carne de Porco		12,00
+Costelinha de Porco	14,00
+Toucinho		08,00
+Pernil			12,00
+Linguia Caseira		18,00
+Frango de Granja	06,75
+Meio da Asa		
+Coxa Pacote		13,50
+Asa de Frango		16,25
+Coxa Bandeija		
+Linguiça Calabresa	17,00
+Linguiça Flip		19,89
+Peito de Frango		07,70
+Filé de Frango		14,00
+Linguiça de Frango	16,00	
+Linguiça Suína		16,00	
+Coxinha da Asa			
+Linguiça Pernil		17,00
+Asa Bandeija		15,85
+Suã			20,00
+Costela de Boi		10,00
+Moela Bandeija		08,50
+Tripa de porco		10,00
+Dobradinha		15,00
+
+500g | 13 | 10 | 5
+
+2000000010205
+Tara(kg):0,000
+Peso: 1,020kg
+Preço/kg 27,00
+Total: 27,54

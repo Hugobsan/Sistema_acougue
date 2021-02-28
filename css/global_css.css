@@ -1,0 +1,65 @@
+.abaixa{
+    margin-top: 10px;
+}
+.logo {
+    text-decoration:none;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.sublogo{
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: 27px;
+    margin-left:3px;
+}
+.redefinidores{
+    padding-left:30px;
+}
+.nota{
+    color:gray;
+    font-size:13px ;
+}
+.pb40{
+   
+    padding-bottom: 40px !important;
+}
+.linhaTabela:hover{
+    background-color:gray !important;
+}
+.imgOpcao{
+    width:20px;
+    height: 20px;
+    z-index: 1;
+}
+.imgOpcao:hover{
+    width:30px;
+    height: 30px;
+    z-index: 1;
+}
+.cellPreco:hover{
+    background-color: green !important;
+    font-weight: bolder;
+}
+.estoqueAtual:hover{
+    background-color: aliceblue !important;
+}
+.negritar:hover{
+    font-weight: bolder;
+}
+.estoqueBotoes{
+    width:20px;
+    height: 20px;
+    z-index: 0;
+}
+.estoqueBotoes:hover{
+    width:30px;
+    height: 30px;
+    z-index: 0;
+}
+
+.classeCentralizadora{
+    float:center;
+}
+.select_venda{
+    margin-left: 20px; 
+}
